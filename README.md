@@ -1,7 +1,7 @@
 <h3 align="center">Finance Tracker</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Personal Finance Tracker is a web application that helps you manage your finances effectively. With this application, you can track your income and expenses, set budgets, and gain better control over your financial health.
     <br />
     <a href="https://github.com/README-Template"><strong>Explore the docs »</strong></a>
     <br />
@@ -71,7 +71,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![Javascript][Next.js]][Next-url]
 * [![React][React.js]][React-url]
 * [![TS][ts.js]][ts-url]
-* [![Mongo][Mongo.io]][Mongo-url]
+* [![Mongo][Mongo.js]][Mongo-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
