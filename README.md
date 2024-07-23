@@ -16,6 +16,10 @@
 
 
 
+https://github.com/user-attachments/assets/ea7cb724-7278-41bd-9b6a-50236f1841ff
+
+
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -46,8 +50,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-https://github.com/Tushar-Dhingra/Finance-Tracker/assets/120412316/5dd55514-c16c-4db1-bf8a-7176329862df
 
 This repository hosts the source code and documentation for a Finance Tracker Web App. The application is designed to help users manage their finances effectively by providing tools for tracking expenses, income, budgets, and more.
 
