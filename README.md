@@ -1,50 +1,10 @@
-<h3 align="center">Finance Tracker</h3>
+## Finance Tracker
 
   <p align="center">
     Personal Finance Tracker is a web application that helps you manage your finances effectively. With this application, you can track your income and expenses, set budgets, and gain better control over your financial health.
-    <br />
-    <a href="https://github.com/README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/Tushar-Dhingra/Finance-Tracker/assets/120412316/5dd55514-c16c-4db1-bf8a-7176329862df">View Demo</a>
-    ·
-    <a href="https://github.com/">Report Bug</a>
-    ·
-    <a href="https://github.com/">Request Feature</a>
   </p>
-</div>
-
-
 
 https://github.com/user-attachments/assets/ea7cb724-7278-41bd-9b6a-50236f1841ff
-
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
 
 
 
@@ -62,9 +22,6 @@ This repository hosts the source code and documentation for a Finance Tracker We
 - **User Authentication**: Secure login and registration system.
 - **Responsive Design**: Works seamlessly on desktop and mobile devices.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ### Built With
 
@@ -74,8 +31,6 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![React][React.js]][React-url]
 * [![TS][ts.js]][ts-url]
 * [![Mongo][Mongo.js]][Mongo-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -102,11 +57,6 @@ To get a local copy of the project up and running follow these steps:
     npm start
 
 6. Open your web browser and navigate to `http://localhost:3000` to see the app running locally.
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
 
 
 
@@ -125,7 +75,6 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -133,8 +82,6 @@ Don't forget to give the project a star! Thanks again!
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -144,8 +91,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 Tushar Dhingra - dhingraatushar@example.com
 
 Project Link: [https://github.com/Tushar-Dhingra/Finance-Tracker](https://github.com/Tushar-Dhingra/Finance-Tracker)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -161,7 +106,6 @@ Project Link: [https://github.com/Tushar-Dhingra/Finance-Tracker](https://github
 * [Font Awesome](https://fontawesome.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
