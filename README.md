@@ -25,8 +25,6 @@ This repository hosts the source code and documentation for a Finance Tracker We
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
 * [![Javascript][Next.js]][Next-url]
 * [![React][React.js]][React-url]
 * [![TS][ts.js]][ts-url]
